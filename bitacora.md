@@ -1,4 +1,4 @@
-## Punto de partida
+# Punto de partida
 
 1. User: localhost y no usa contraseña
     En una situacion real cualquiera que entre con localhost y no ponga contraseña podria entrar y borrar todo lo que quiera
@@ -12,8 +12,11 @@
 4. Tengo la 8.2.12 y mi compañero la 8.2.12 
     Versiones distintas podrian hacer que diese un error y que el código falle
 
-##ACTIVIDAD PROXMOX-DEBIAN
-    1. Creación de plantilla base Debian en Proxmox con SSH y ajustes de arranque (noapic, nomodeset).   Despliegue de clones dev (10.0.2.10) y pro (10.0.2.20) con IP fija, validación con ping y snapshot recien-clonada.   Documentación de la red en infra/maquinas.md publicada en el repositorio de GitHub.
-    2. Creación de plantilla base Debian en Proxmox con SSH y ajustes de arranque (noapic, nomodeset).
-    3. Despliegue de clones dev (10.0.2.10) y pro (10.0.2.20) con IP fija, validación con ping y snapshot recien-clonada.
-    4. Documentación de la red en infra/maquinas.md publicada en el repositorio de GitHub.
+### ACTIVIDAD PROXMOX-DEBIAN
+1. Creación de plantilla base Debian en Proxmox con SSH y ajustes de arranque (noapic, nomodeset).   Despliegue de clones dev (10.0.2.10) y pro (10.0.2.20) con IP fija, validación con ping y snapshot recien-clonada.   Documentación de la red en infra/maquinas.md publicada en el repositorio de GitHub.
+    
+2. Creación de plantilla base Debian en Proxmox con SSH y ajustes de arranque (noapic, nomodeset).
+    
+3. Despliegue de clones dev (10.0.2.10) y pro (10.0.2.20) con IP fija, validación con ping y snapshot recien-clonada.
+    
+4. Documentación de la red en infra/maquinas.md publicada en el repositorio de GitHub.
