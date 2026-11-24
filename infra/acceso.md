@@ -31,6 +31,9 @@ Clave pública generada:
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP+4AY2787ecwWWT64xrOM1msbbAc1iwe3yveZcmxX36 hilario@grupo6
 ```
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID0zciLO3yvv4Zy3HQRXbApjAbb4J/ia1nu4Kt1kJHis javi@elcampico
+```
 
 En dev.grupo6, como root (desde la consola de Proxmox):
 
